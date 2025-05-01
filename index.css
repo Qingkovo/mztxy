@@ -188,7 +188,7 @@ nav > a {
 
 nav ul li a {
       text-decoration: none;
-      color: #808080
+      color: #808080;
 }
 
 nav > ul > li:hover {
@@ -203,7 +203,7 @@ nav > ul > li:hover {
 
 main{
       margin-left: 150px;
-      padding-left:10px
+      padding-left:10px;
     }
 
 section:last-of-type {
